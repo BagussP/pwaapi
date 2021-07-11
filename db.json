@@ -1,0 +1,21 @@
+{
+    "car"  : [
+        {
+            "id":1 ,
+            "car model" : "Mustang",
+            "color" : "red"
+        },
+
+        {
+            "id" : 2 ,
+            "car model" : "Mustang",
+            "color" : "blue"
+        },
+
+        {
+            "id" : 3,
+            "car model" : "ferrari",
+            "color" : "blue"
+        }
+    ]
+}
